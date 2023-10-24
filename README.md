@@ -1,6 +1,6 @@
 ### Hi there 👋, I am wahid sadik
 #### I am a Software Engineer
-![I am a Software Engineer]
+
 
 I'm a passionate web developer with a versatile skill set that empowers me to bring digital experiences to life. My journey in web development has been marked by a deep love for coding and a commitment to staying up-to-date with the latest technologies.
 
