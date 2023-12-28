@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm wahid sadik</h1>
 <h3 align="center">I am a Software Engineer I'm a passionate web developer with a versatile skill set that empowers me to bring digital experiences to life. My journey in web development has been marked by a deep love for coding and a commitment to staying up-to-date with the latest technologies.</h3>
 
-<img align="right" alt="Coding" width="400" src="(https://camo.githubusercontent.com/91c0c50639feb83c9675e648e989b35117171876f126c3af52a522f266f1aeb7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/91c0c50639feb83c9675e648e989b35117171876f126c3af52a522f266f1aeb7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966"/>
 
 - 📫 How to reach me **wahidsadik7375@gmail.com**
 
