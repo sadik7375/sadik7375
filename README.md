@@ -5,7 +5,7 @@
 <h3 align="center">I am a Software Engineer I'm a passionate web developer with a versatile skill set that empowers me to bring digital experiences to life. My journey in web development has been marked by a deep love for coding and a commitment to staying up-to-date with the latest technologies.</h3>
 
 
-- 📫 How to reach me **wahidsadik7375@gmail.com**
+- 📫 How to reach me **wahidsadik38@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
